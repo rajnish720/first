@@ -12,6 +12,7 @@ const Parent = () => {
         <div>{cnt}</div>
         <Child handleCnt={handleCnt} />
         <div>{cnt}</div>
+        <h1>Hello</h1>
     </div>
   )
 }
